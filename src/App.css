@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+.topNav {
+  display: flex;
+  justify-content: space-around;
+}
